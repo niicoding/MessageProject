@@ -1,0 +1,22 @@
+The alarm is set.
+The alarm is disabled.
+Emergency switch is disabled.
+Light switch is turned off. 
+Light switch is disabled. 
+The alarm is red.
+The alarm is green.
+The fire alarm works.
+The fire alarm is broken.
+The dog is blue.
+The grass is purple.
+The dog bit me.
+I am allergic to the grass.
+Grass should be avoided.
+The dog set off the alarm.
+Dogs should pee in the grass.
+The dog accidentally peed on the alarm.
+The alarm no longer functions.
+We need to purchase a new alarm.
+The dog was donated.
+We now have a working alarm.
+The alarm was stolen.
